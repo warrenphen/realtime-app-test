@@ -1,0 +1,9 @@
+{
+  "firebase": "xfac",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
